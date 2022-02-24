@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Munroe
+    given-names: Oliver
+    orcid: https://orcid.org/0000-0001-6385-5290
+  - family-names: Letourneur
+    given-names: Stephane
+  - family-names: Novak
+    given-names: Antonin
+    orcid: https://orcid.org/0000-0002-1452-2227
+title: "Teensy 16bit Audio Processor (ADC-DAC)"
+version: 1.0.0
+date-released: 2022-02-24
